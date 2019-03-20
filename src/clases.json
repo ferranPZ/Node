@@ -1,0 +1,40 @@
+{
+    "items":
+    [
+        {
+            "titulo":"item1",
+            "descripcion":"descripcion del item 1",
+            "responsable":"lucas",
+            "prioridad":"bajisima"
+
+        },
+        {
+            "titulo":"item2",
+            "descripcion":"descripcion del item 2",
+            "responsable":"luck",
+            "prioridad":"altisima"
+
+        },
+        {
+            "titulo":"item3",
+            "descripcion":"descripcion del item 2",
+            "responsable":"luck",
+            "prioridad":"altisima"
+
+        },
+        {
+            "titulo":"item4",
+            "descripcion":"descripcion del item 2",
+            "responsable":"luck",
+            "prioridad":"altisima"
+
+        },
+        {
+            "titulo":"item5",
+            "descripcion":"descripcion del item 2",
+            "responsable":"luck",
+            "prioridad":"altisima"
+
+        }
+    ]
+}
